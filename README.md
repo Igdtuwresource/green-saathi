@@ -1,4 +1,4 @@
-# Eco Savvy ~ Smart Solutions for Waste
+# Green Saathi ~ Smart Solutions for Waste
 TECH STACKS USED - HTML, CSS, JS
 # This repo is of our WEB PORTAL & 5 features of our project are listed below:-
 Key Features - 
