@@ -4,16 +4,18 @@ TECH STACKS USED - HTML, CSS, JS
 Key Features - 
 i) Scan the Waste  
 (ii) Waste Discovery by VR Room 
-(iii) Waste Sorting Game 
+(iii) Bindass Bins 
 (iv) Recycle Hub
 (v) Chatbot
-# Portal Deployed Link - 
+# Portal Deployed Link - https://igdtuwresource.github.io/green-saathi/
 
 # DESKTOP VIEW
-![image](https://github.com/Git-Upasana/eco-savvy/assets/135226089/57a92020-de5c-419f-b986-e294543b8cd6)
+![image](https://github.com/user-attachments/assets/dd3126ba-8d29-47b6-8198-25e7a9dd0269)
+
 
 # MOBILE VIEW
-![image](https://github.com/Git-Upasana/eco-savvy/assets/135226089/7a8aef6a-1873-476e-a4e2-b1d91492193e)
+![image](https://github.com/user-attachments/assets/26632629-32c3-4a3b-9228-85a1781ced04)
+
 
 
 
